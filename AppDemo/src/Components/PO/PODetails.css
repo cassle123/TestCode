@@ -1,0 +1,16 @@
+.div-btn-check{
+    padding: 1rem 0;
+    text-align: right;
+}
+
+.div-btn-back{
+    padding-bottom: 1rem;
+}
+
+.btn-back{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 1rem;
+    background-color: var(--body-color);
+}

@@ -1,0 +1,82 @@
+.login,
+.register {
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    align-content: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+
+.card {
+    width: 100%;
+    max-width: 500px;
+    height: fit-content;
+    padding: 2rem;
+    background: var(--container-color);
+    border-radius: 15px;
+    box-shadow: rgba(0, 0, 0, 0.02) 0px 1px 3px 0px, rgba(27, 31, 35, 0.15) 0px 0px 0px 1px;
+    display: flex;
+    grid-template-columns: repeat(1, 1fr);
+    gap: 0.5rem;
+}
+
+.form-div {
+    position: relative;
+    margin-bottom: 1.25rem;
+    height: 3.5rem;
+}
+
+.form-input {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    border: 2px solid rgba(0, 0, 0, 0.3);
+    background: none;
+    color: var(--text-color);
+    outline: none;
+    border-radius: 0.75rem;
+    padding: 1.5rem;
+    z-index: 1;
+    transition: all 0.3s linear;
+}
+
+.form-input:focus {
+    border: 2px solid var(--first-color);
+}
+
+.form-tag {
+    position: absolute;
+    top: -0.875rem;
+    left: 1.25rem;
+    font-size: var(--small-fs);
+    padding: 0.25rem;
+    background-color: var(--container-color);
+    z-index: 100;
+    border-radius: 100%;
+}
+
+.form-area {
+    height: 13rem;
+}
+
+.form-area textarea {
+    resize: none;
+}
+
+.form-btn {
+    display: grid;
+    justify-content: space-evenly;
+    grid-template-columns: repeat(2, 1fr);
+    text-align: center;
+    column-gap: 0.5rem;
+}
+
+@media screen and (width < 600px) {
+    .form-div {
+        height: 3rem;
+    }
+}
