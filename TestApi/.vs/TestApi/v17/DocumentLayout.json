@@ -1,17 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\hhuy3\\source\\repos\\TestApi\\",
+  "WorkspaceRootPath": "C:\\Users\\hhuy3\\source\\repos\\TestProject\\TestCode\\TestApi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{223213A2-9B2C-4EBA-BF7A-9EE81711A69D}|TestApi\\TestApi.csproj|c:\\users\\hhuy3\\source\\repos\\testapi\\testapi\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{223213A2-9B2C-4EBA-BF7A-9EE81711A69D}|TestApi\\TestApi.csproj|c:\\users\\hhuy3\\source\\repos\\testproject\\testcode\\testapi\\testapi\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{223213A2-9B2C-4EBA-BF7A-9EE81711A69D}|TestApi\\TestApi.csproj|solutionrelative:testapi\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{223213A2-9B2C-4EBA-BF7A-9EE81711A69D}|TestApi\\TestApi.csproj|c:\\users\\hhuy3\\source\\repos\\testapi\\testapi\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{223213A2-9B2C-4EBA-BF7A-9EE81711A69D}|TestApi\\TestApi.csproj|c:\\users\\hhuy3\\source\\repos\\testproject\\testcode\\testapi\\testapi\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{223213A2-9B2C-4EBA-BF7A-9EE81711A69D}|TestApi\\TestApi.csproj|solutionrelative:testapi\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{223213A2-9B2C-4EBA-BF7A-9EE81711A69D}|TestApi\\TestApi.csproj|c:\\users\\hhuy3\\source\\repos\\testapi\\testapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{223213A2-9B2C-4EBA-BF7A-9EE81711A69D}|TestApi\\TestApi.csproj|c:\\users\\hhuy3\\source\\repos\\testproject\\testcode\\testapi\\testapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{223213A2-9B2C-4EBA-BF7A-9EE81711A69D}|TestApi\\TestApi.csproj|solutionrelative:testapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -32,11 +32,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "DashBoardController.cs",
-              "DocumentMoniker": "C:\\Users\\hhuy3\\source\\repos\\TestApi\\TestApi\\Controllers\\DashBoardController.cs",
+              "DocumentMoniker": "C:\\Users\\hhuy3\\source\\repos\\TestProject\\TestCode\\TestApi\\TestApi\\Controllers\\DashBoardController.cs",
               "RelativeDocumentMoniker": "TestApi\\Controllers\\DashBoardController.cs",
-              "ToolTip": "C:\\Users\\hhuy3\\source\\repos\\TestApi\\TestApi\\Controllers\\DashBoardController.cs",
+              "ToolTip": "C:\\Users\\hhuy3\\source\\repos\\TestProject\\TestCode\\TestApi\\TestApi\\Controllers\\DashBoardController.cs",
               "RelativeToolTip": "TestApi\\Controllers\\DashBoardController.cs",
-              "ViewState": "AQIAAC8AAAAAAAAAAAAgwEIAAABBAAAA",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABwAAAAvAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-06T23:52:55.96Z",
               "EditorCaption": ""
@@ -45,9 +45,9 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\hhuy3\\source\\repos\\TestApi\\TestApi\\Model\\User.cs",
+              "DocumentMoniker": "C:\\Users\\hhuy3\\source\\repos\\TestProject\\TestCode\\TestApi\\TestApi\\Model\\User.cs",
               "RelativeDocumentMoniker": "TestApi\\Model\\User.cs",
-              "ToolTip": "C:\\Users\\hhuy3\\source\\repos\\TestApi\\TestApi\\Model\\User.cs",
+              "ToolTip": "C:\\Users\\hhuy3\\source\\repos\\TestProject\\TestCode\\TestApi\\TestApi\\Model\\User.cs",
               "RelativeToolTip": "TestApi\\Model\\User.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -57,9 +57,9 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\hhuy3\\source\\repos\\TestApi\\TestApi\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\hhuy3\\source\\repos\\TestProject\\TestCode\\TestApi\\TestApi\\Program.cs",
               "RelativeDocumentMoniker": "TestApi\\Program.cs",
-              "ToolTip": "C:\\Users\\hhuy3\\source\\repos\\TestApi\\TestApi\\Program.cs",
+              "ToolTip": "C:\\Users\\hhuy3\\source\\repos\\TestProject\\TestCode\\TestApi\\TestApi\\Program.cs",
               "RelativeToolTip": "TestApi\\Program.cs",
               "ViewState": "AQIAAAQAAAAAAAAAAAAcwCAAAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
